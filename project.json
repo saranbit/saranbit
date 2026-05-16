@@ -1,0 +1,28 @@
+{
+  "overview": "A modern, premium personal portfolio website for SARAN B — an IT student and software developer. Features a dark theme with neon glow effects, glassmorphism cards, animated sections, interactive calculators, colorful mode toggle, visitor counter, and smooth Framer Motion animations throughout.",
+  "features": [
+    "Dark theme with neon glow and glassmorphism",
+    "Animated hero with typing effect and particle background",
+    "Skills section with progress bars",
+    "Education timeline",
+    "Life quotes carousel",
+    "Projects showcase with hover effects",
+    "Funny Smart Calculator and Age Calculator",
+    "Colorful Mode toggle with rainbow effects",
+    "Visitor counter",
+    "Floating social dock and back-to-top button",
+    "Contact section with all social links"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "personal-website",
+    "dark-theme",
+    "animations",
+    "react",
+    "framer-motion",
+    "glassmorphism",
+    "neon"
+  ],
+  "last_updated": "2026-05-16T16:34:21.571Z"
+}
